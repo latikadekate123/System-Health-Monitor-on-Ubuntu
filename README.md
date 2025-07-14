@@ -1,4 +1,4 @@
-**# System Health Monitor on Ubuntu**
+## System Health Monitor on Ubuntu
 
 This is a basic System Health Monitoring Tool built entirely with **pure Bash**. It checks essential system stats like **disk usage, memory load, CPU load, and uptime**, and provides real-time **desktop notifications** and **sound alerts** whenever the script is run.
 
